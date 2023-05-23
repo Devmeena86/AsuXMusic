@@ -96,7 +96,8 @@ async def cbstart(_, query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩ",
+                        text="ᴀᴅᴅ ᴍᴇ BABY ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩ",
+
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     ),
                 ],
