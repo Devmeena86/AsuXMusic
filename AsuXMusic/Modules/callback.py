@@ -106,16 +106,16 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{GROUP_SUPPORT}"
+                        text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/squad_of_friends"
                     ),
                     InlineKeyboardButton(
-                        text="💘 ᴄʜᴀɴɴᴇʟ 💘", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        text="💘 ᴄʜᴀɴɴᴇʟ 💘", url=f"https://t.me/DP_CHENNAL"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁",
-                        url="https://github.com/Abishnoi69/AsuXMusic",
+                        text="☁ 2ND SUPPORT GROUP ☁", url=f"https://t.me/CUTE_FRIENDSS"
+",
                     )
                 ],
             ]
@@ -137,7 +137,7 @@ async def cbbasic(_, query: CallbackQuery):
 
 🤷 » /skip - ᴛᴏ sᴋɪᴘ ᴄᴜʀʀᴇɴᴛ sᴏɴɢ
 
-🤷 » /repo - ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇᴘᴏ
+🤷 » /dev - BOT OWNER 
 
 🙋 » /end - ᴛᴏ end ᴘʟᴀʏ sᴏɴɢ ɪɴ ᴠᴄ.""",
         reply_markup=InlineKeyboardMarkup(
